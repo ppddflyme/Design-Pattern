@@ -1,0 +1,12 @@
+package com.pattern;
+
+public class And implements Expression {
+	private Exception left, right;
+
+	@Override
+	public boolean interpret() {
+		// TODO Auto-generated method stub
+		return left.interpret() && right;
+	}
+
+}

@@ -1,0 +1,14 @@
+package com.pattern;
+
+public class ConcreteMediator implements Mediator {
+	ConcreteColleague1 colleague1;
+	ConcreteColleague2 colleague2;
+	
+
+	@Override
+	public void colleagueChanged(Colleague colleague) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

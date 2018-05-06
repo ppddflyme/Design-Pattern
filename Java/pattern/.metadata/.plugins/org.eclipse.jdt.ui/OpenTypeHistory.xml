@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=simple_factory_pattern/src&lt;com.pattern{IFruit.java[IFruit" modifiers="513" timestamp="1520683239361"/>
+<typeInfo handle="=factory_pattern/src&lt;com.pattern{Product.java[Product" modifiers="513" timestamp="1520757888842"/>
+<typeInfo handle="=factory_pattern/src&lt;com.pattern{Creator.java[Creator" modifiers="513" timestamp="1520757877230"/>
+<typeInfo handle="=abstract_factory/src&lt;com.pattern{IProduct.java[IProduct" modifiers="513" timestamp="1520934662529"/>
+<typeInfo handle="=abstract_factory/C:\/Program Files\/Java\/jdk1.8.0_162\/jre\/lib\/rt.jar&lt;java.awt.image(ImageProducer.class[ImageProducer" modifiers="1537" timestamp="1520864205359"/>
+<typeInfo handle="=abstract_factory/src&lt;com.pattern{IProduct2.java[IProduct2" modifiers="513" timestamp="1520934859881"/>
+<typeInfo handle="=abstract_factory/src&lt;com.pattern{ICreator.java[ICreator" modifiers="513" timestamp="1520935004765"/>
+<typeInfo handle="=singleton/src&lt;com.pattern{RegSingleton.java[RegSingleton" modifiers="1" timestamp="1521358434331"/>
+<typeInfo handle="=builder/src&lt;com.pattern{IBuilder.java[IBuilder" modifiers="1025" timestamp="1521896441397"/>
+<typeInfo handle="=builder/src&lt;com.pattern{IProduct.java[IProduct" modifiers="513" timestamp="1521896334953"/>
+<typeInfo handle="=prototype/C:\/Program Files\/Java\/jdk1.8.0_162\/jre\/lib\/rt.jar&lt;java.lang(Cloneable.class[Cloneable" modifiers="1537" timestamp="1520864205359"/>
+<typeInfo handle="=adapter_pattern/src&lt;com.pattern{Adaptee.java[Adaptee" modifiers="1025" timestamp="1522137959255"/>
+<typeInfo handle="=adapter_pattern/src&lt;com.pattern{TargetClass.java[TargetClass" modifiers="513" timestamp="1522137891755"/>
+<typeInfo handle="=composite_pattern/src&lt;com.pattern{IComponent_trans.java[IComponent_trans" modifiers="513" timestamp="1522660087102"/>
+<typeInfo handle="=Decorator/src&lt;com.pattern{IComponent.java[IComponent" modifiers="513" timestamp="1523279300989"/>
+<typeInfo handle="=Decorator/src&lt;com.pattern{Decorator.java[Decorator" modifiers="1" timestamp="1523279479256"/>
+<typeInfo handle="=proxy/src&lt;com.pattern{Subject.java[Subject" modifiers="513" timestamp="1523539473362"/>
+<typeInfo handle="=FlyWeight/src&lt;com.pattern{FlyWeight_root.java[FlyWeight_root" modifiers="1025" timestamp="1523843785204"/>
+<typeInfo handle="=Briage/src&lt;com.pattern{Abstraction.java[Abstraction" modifiers="1025" timestamp="1524018487548"/>
+<typeInfo handle="=Briage/src&lt;com.pattern{Implementor.java[Implementor" modifiers="513" timestamp="1524018311626"/>
+<typeInfo handle="=strategy/src&lt;com.pattern{Stragety.java[Stragety" modifiers="513" timestamp="1524102724907"/>
+<typeInfo handle="=ObserverProj/src&lt;com.pattern{Subject.java[Subject" modifiers="513" timestamp="1524449395785"/>
+<typeInfo handle="=ObserverProj/src&lt;com.pattern{Observer.java[Observer" modifiers="513" timestamp="1524449390543"/>
+<typeInfo handle="=ObserverProj/src&lt;com.pattern{SubjectNew.java[SubjectNew" modifiers="1" timestamp="1524475840738"/>
+<typeInfo handle="=IteratorProj/src&lt;com.pattern{Aggregation.java[Aggregation" modifiers="1025" timestamp="1524537145124"/>
+<typeInfo handle="=ChainOfResponse/src&lt;com.pattern{Handler.java[Handler" modifiers="1025" timestamp="1524659985533"/>
+<typeInfo handle="=CommandProj/src&lt;com.pattern{ICommand.java[ICommand" modifiers="513" timestamp="1524748298762"/>
+<typeInfo handle="=StatusProj/src&lt;com.pattern{Status.java[Status" modifiers="1" timestamp="1524880488369"/>
+<typeInfo handle="=VisitorProj/src&lt;com.pattern{Node.java[Node" modifiers="513" timestamp="1524922613339"/>
+<typeInfo handle="=VisitorProj/src&lt;com.pattern{Visitor.java[Visitor" modifiers="513" timestamp="1524922004305"/>
+<typeInfo handle="=VisitorProj/C:\/Program Files\/Java\/jdk1.8.0_162\/jre\/lib\/rt.jar&lt;javax.swing.text(ViewFactory.class[ViewFactory" modifiers="1537" timestamp="1520864205359"/>
+<typeInfo handle="=IntrepreterProj/src&lt;com.pattern{Expression.java[Expression" modifiers="513" timestamp="1525483767344"/>
+<typeInfo handle="=MediatorProj/src&lt;com.pattern{Colleague.java[Colleague" modifiers="1025" timestamp="1525522018749"/>
+<typeInfo handle="=MediatorProj/src&lt;com.pattern{Mediator.java[Mediator" modifiers="513" timestamp="1525522003760"/>
+</typeInfoHistroy>

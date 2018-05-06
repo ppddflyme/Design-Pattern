@@ -1,0 +1,11 @@
+package com.pattern;
+
+public class Tester {
+
+	public static void main(String[] args) {
+		ConcreteMediator mediator = new ConcreteMediator();
+		mediator.createConcreteMediator();
+
+	}
+
+}

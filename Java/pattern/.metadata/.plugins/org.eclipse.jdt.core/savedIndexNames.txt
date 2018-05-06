@@ -1,0 +1,3 @@
+INDEX VERSION 1.130+C:\Users\jacui\Documents\GitHub\Design-Pattern\Java\pattern\.metadata\.plugins\org.eclipse.jdt.core
+2523644182.index
+3212587588.index

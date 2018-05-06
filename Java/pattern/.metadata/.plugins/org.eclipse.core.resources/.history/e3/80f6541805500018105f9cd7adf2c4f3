@@ -1,0 +1,12 @@
+package com.pattern;
+
+public class Tester {
+
+	public static void main(String[] args) {
+		Expression leftConstant = new Constant(true);
+		Expression rightConstant = new Constant(true);
+		Exception and = new And(left, right)
+
+	}
+
+}

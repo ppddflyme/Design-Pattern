@@ -1,0 +1,11 @@
+package com.pattern;
+
+public class ConcreteColleague1 extends Colleague {
+
+	@Override
+	public void action() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

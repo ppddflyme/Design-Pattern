@@ -1,0 +1,11 @@
+package com.pattern;
+
+public class And implements Expression {
+
+	@Override
+	public boolean interpret() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

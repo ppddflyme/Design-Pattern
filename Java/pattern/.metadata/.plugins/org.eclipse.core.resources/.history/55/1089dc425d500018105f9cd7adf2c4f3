@@ -1,0 +1,11 @@
+package com.pattern;
+
+public class ConcreteColleague2 extends Colleague {
+
+	@Override
+	public void action() {
+		System.out.println("ConcreteColleague2::action()");
+
+	}
+
+}

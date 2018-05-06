@@ -1,0 +1,14 @@
+package com.pattern;
+
+import java.awt.Desktop.Action;
+
+public abstract class Colleague {
+	public Mediator mediator;
+	
+	public Colleague(Mediator mediator) {
+		super();
+		this.mediator = mediator;
+	}
+	
+	public abstract action();
+}
