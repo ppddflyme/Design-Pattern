@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  multiLingual_Proj.cpp
+  MultiLingual.cpp
+  Generating Code...
+c:\projects\design_pattern\multilingual_proj\multilingual.cpp(32): warning C4172: returning address of local variable or temporary: str
+  multiLingual_Proj.vcxproj -> C:\Projects\design_pattern\x64\Debug\multiLingual_Proj.exe
+  multiLingual_Proj.vcxproj -> C:\Projects\design_pattern\x64\Debug\multiLingual_Proj.pdb (Full PDB)
